@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "374677777194",
+    "firebase_url": "https://refd-8c12a.firebaseio.com",
+    "project_id": "refd-8c12a",
+    "storage_bucket": "refd-8c12a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374677777194:android:6ed7df99e2b08d37",
+        "android_client_info": {
+          "package_name": "instapay.instapay.wadi.makkah.refd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374677777194-2dg7vunhm5jc82s0v9nj640ck1uc19fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "instapay.instapay.wadi.makkah.refd",
+            "certificate_hash": "9ca47b7380ed84b2cf6fdbee4fb0a38f94ac0ee9"
+          }
+        },
+        {
+          "client_id": "374677777194-vhoj03tsgjog9qiec6vtdfkfu52jv7eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuwR3CWy8pb1DGPHsnWg0Y6D4J-xzUeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374677777194-vhoj03tsgjog9qiec6vtdfkfu52jv7eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
